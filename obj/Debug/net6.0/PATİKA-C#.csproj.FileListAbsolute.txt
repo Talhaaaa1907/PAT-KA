@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\PATİKA-C#.exe
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\PATİKA-C#.deps.json
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\PATİKA-C#.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\PATİKA-C#.dll
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\ref\PATİKA-C#.dll
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\bin\Debug\net6.0\PATİKA-C#.pdb
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.dll
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\ref\PATİKA-C#.dll
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.pdb
+C:\Users\talha\OneDrive\Masaüstü\PATİKA-C#\obj\Debug\net6.0\PATİKA-C#.genruntimeconfig.cache
